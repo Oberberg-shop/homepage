@@ -10,22 +10,22 @@
       </p>
       <ul class="text-secondary grid grid-cols-6 gap-3 mb-6">
         <li class="col-span-6 md:col-span-3 block text-center">
-          <a href="/">Gummersbach.shop</a>
+          <a href="https://Gummersbach.shop">Gummersbach.shop</a>
         </li>
         <li class="col-span-6 md:col-span-3 block text-center">
-          <a href="/">Bergneustadt.shop</a>
+          <a href="https://Bergneustadt.shop">Bergneustadt.shop</a>
         </li>
         <li class="col-span-6 md:col-span-3 block text-center">
-          <a href="/">Marienheide.shop</a>
+          <a href="https://Marienheide.shop">Marienheide.shop</a>
         </li>
         <li class="col-span-6 md:col-span-3 block text-center">
-          <a href="/">Lindlar.shop</a>
+          <a href="https://Lindlar.shop">Lindlar.shop</a>
         </li>
         <li class="col-span-6 md:col-span-3 block text-center">
-          <a href="/">Hückeswagen.shop</a>
+          <a href="https://Hückeswagen.shop">Hückeswagen.shop</a>
         </li>
         <li class="col-span-6 md:col-span-3 block text-center">
-          <a href="/">Engelskirchen.shop</a>
+          <a href="https://Engelskirchen.shop">Engelskirchen.shop</a>
         </li>
       </ul>
       <p class="text-sm font-bold text-center mb-3 block text-jmse">
