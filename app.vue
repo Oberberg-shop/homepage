@@ -1,6 +1,7 @@
 <template>
   <section class="flex justify-center">
-    <section class="card bg-[#AAA] px-3  max-w-md py-3 my-24">
+    <section class="card bg-[#AAA] px-3 max-w-md py-3 my-24">
+      <img src="https://cdn.jmse.cloud/jmse-logo.svg" class="card-image bg-white" alt="">
       <h2 class="font-bold block text-3xl text-center text-jmse">
         Oberberg.shop
       </h2>
