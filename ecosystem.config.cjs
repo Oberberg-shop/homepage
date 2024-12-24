@@ -1,10 +1,10 @@
 module.exports = {
     apps: [
       {
-        name: 'NuxtAppName',
+        name: 'NuxtOberbergShop',
         port: '4000',
         exec_mode: 'cluster',
-        instances: 'max',
+        instances: 2,
         script: './.output/server/index.mjs'
       }
     ]
