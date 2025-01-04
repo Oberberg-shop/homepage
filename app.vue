@@ -38,3 +38,15 @@
     </section>
   </section>
 </template>
+
+<script setup lang="ts">
+useHead({
+    script: [
+        {
+            defer: true,
+            src: 'https://plausible.io/js/script.hash.outbound-links.tagged-events.js',
+            "data-domain": "oberberg.shop"
+        }
+    ]
+});
+</script>
